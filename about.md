@@ -2,11 +2,17 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Sportsbet iOS University is Sportsbet's first university-style internal 
+training program. It's designed to be like an accelerated university course 
+teaching the essentials of iOS app development using modern teaching methods 
+and encouraging active participation and student collaboration.
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+All course materials are made available, open source, online, on
+[GitHub](//github.com/sportsbet-ios-university).
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+The course ran for the first time in March 2016.
+
+For more information, contact tyrone [dot] trevorrow [at] sportsbet [dot] com
+[dot] au.
