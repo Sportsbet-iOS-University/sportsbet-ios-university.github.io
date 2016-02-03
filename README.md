@@ -1,14 +1,14 @@
-# Type Theme
+# Sportsbet iOS University Website
 
-![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
-
-A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
+This site is based on the open source 
+[Type theme](https://github.com/rohanchandra/type-theme). It is generated using
+the [Jekyll](http://jekyllrb.com) site generator.
 
 ## Get Started
 
-[Demo](https://rohanchandra.github.io/type-theme/)
+	gem install jekyll jekyll-paginate
+	jekyll serve
 
-[Using Type](https://rohanchandra.github.io/project/type/)
 
 ## License
 The MIT License (MIT)
